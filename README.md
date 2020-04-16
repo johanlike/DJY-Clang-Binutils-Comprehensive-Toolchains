@@ -26,20 +26,22 @@ GNU ld (GNU Binutils) 2.34.50.20200415
 
 
 This is a compilation toolchain for my  use. 
-`` `
+```
 https://github.com/johanlike/tc-build
-`` `
+```
+
+
 use this script  compiled. Compilation enable optimiz settings and enables pgo and lto thin.
 
 This is the current version number
-`` `
+```
 Clang version:
 DJY-2020-04-15-14: 47: 14 clang version 11.0.0 (https://github.com/llvm/llvm-project 25db295756beffdeeb7e2efc134790c2d3f1ada9)
 
 Binutils version:
 GNU ld (GNU Binutils) 2.34.50.20200415
 
+```
 
-`` `
 
 If you need to use this toolchain, please download it yourself. I will update when available
